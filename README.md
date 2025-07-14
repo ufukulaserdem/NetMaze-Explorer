@@ -74,7 +74,7 @@ Each phase is documented in Obsidian-compatible markdown files:
  ┣ 📄 3.0_NSG_and_Bastion.md
  ┣ 📄 4.0_VPN_Gateway_Setup.md
  ┣ 📄 5.0_Private_Endpoint_WebApp.md
- ┗ 📷 A_network_architecture_diagram_titled_"NetMaze_Exp.png"
+ ┗ 📷 A_network_architecture_diagram_titled_"Netmaze.png"
 ```
 
 ---
