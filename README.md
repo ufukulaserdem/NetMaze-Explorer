@@ -15,7 +15,7 @@ tags:
 
 **NetMaze Explorer** is a practical Azure networking lab project designed to simulate a hybrid cloud environment. It walks through building secure connectivity between on-premises infrastructure and Azure resources using Virtual Networks, Bastion, NSGs, VPN Gateway, and Private Endpoints.
 
-![NetMaze Explorer Diagram](./A_network_architecture_diagram_titled_%22NetMaze_Exp.png)
+![NetMaze Explorer Diagram](./Netmaze.png)
 
 ---
 
