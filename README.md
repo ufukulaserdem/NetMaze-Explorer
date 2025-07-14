@@ -86,10 +86,3 @@ Each phase is documented in Obsidian-compatible markdown files:
 - Site-to-site VPN configuration with simulated on-prem setup
 - Private Link and endpoint integration for internal-only services
 
----
-
-## 📘 License
-
-MIT — free to use, adapt, and build upon.
-
-> Created with 💙 by `@yourname` · Inspired by real-world hybrid networking scenarios on Azure.
